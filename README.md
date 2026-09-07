@@ -4,13 +4,12 @@
 ⚡ Cut API response time: **8s → <1s** | Reduced proxy traffic: **10 GB → 100 MB/day**
 🚀 Deployed 40 projects via bash automation — **20 sites in ~2 minutes**
 
-💬 Telegram: [@sammirdev](https://t.me/sammirdev)
+💬 Telegram: [@ixollozi](https://t.me/ixollozi)
 
 ---
 
 ## 💼 What I've Built
 
-- 🏛 **Government poverty-reduction portal** — Django, MyID OAuth (OIDC), i18n (UZ/RU/KK), Docker + Nginx
 - 🤖 **HH.ru job automation system** — vacancy scoring + Groq API letter generation, **150 personalized responses/day**
 - 📡 **Domain monitoring system for 400+ domains** — rewrote check logic, cut proxy traffic **100×**
 - 🛒 **3× multilingual e-commerce platforms** (RU/EN/UZ) — catalog, cart, orders, REST API, SEO
@@ -43,7 +42,6 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [job-automation](https://github.com/Ixollozi/Hhunter) | Python, Groq API, FastAPI | 150 HH.ru responses/day, AI-generated letters |
-| [gov-portal](https://github.com/Ixollozi/gosnews) | Django, MyID OAuth, Docker | Multilingual government platform |
 | [domain-monitor (Private)](https://github.com/Ixollozi/keitaro_monitoring) | Python, Keitaro, async | 400+ domains, 100× traffic reduction | 
 | [e-commerce](https://github.com/Ixollozi/clothing_shop) | Django, DRF, PostgreSQL | Full e-commerce with REST API |
 | [tg-job-bot](https://github.com/Ixollozi/work_nearby_bot) | aiogram, PostgreSQL | Job board bot, 3 languages, geo-search |
@@ -61,4 +59,4 @@
 
 Whether it's a full-time role, freelance project, or long-term startup collaboration — I'm open to it.
 
-**The fastest way to reach me:** [Telegram @sammirdev](https://t.me/sammirdev)
+**The fastest way to reach me:** [Telegram @ixollozi](https://t.me/ixollozi)
